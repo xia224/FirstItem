@@ -1,7 +1,7 @@
 Interview
 =========
 
-Trying
+
 A interview code repository
 
 项目git地址： https://github.com/zieckey/interview
